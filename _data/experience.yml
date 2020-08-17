@@ -17,8 +17,8 @@
   link: teliacompany.com
   job_title: Head of Architecture & Data Insight
   dates: May 2017 - May 2020
-  quote: >
-   Driving change of engineering and architectural culture, modernization in IT infrastructure, architecture using service orientation, devops and Public Cloud.
+  #quote: >
+  # Driving change of engineering and architectural culture, modernization in IT infrastructure, architecture using service orientation, devops and Public Cloud.
   description: | # this will include new lines to allow paragraphs
    Leading a change in ways of working by transforming the culture and engineering approach. Responsible for modernisation of Data Analytics platform to enable a data driven business and responsible for renewing the IT stack by building a service oriented architecture. Public Cloud and API evangelist.
   
