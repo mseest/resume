@@ -3,21 +3,21 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Martin Seest Christiansen
+title: Experienced technologist (engineering/architecture)
+email: mseest@gmail.com
+website: https://github.com/mseest/resume
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: mseest
+github_username:  mseest
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: mseest
+linkedin_username: mseest
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
@@ -49,8 +49,10 @@ more_content: | # this will include new lines to allow paragraphs
 # Footer
 footer_show_references: true
 
+darkmode: true
+
 # Build settings
-remote_theme: sproogen/resume-theme
+# remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
