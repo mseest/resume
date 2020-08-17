@@ -1,6 +1,9 @@
-# Resume
-
-## Martin Seest Christiansen
-> M.Sc. Information Technology - IT University of Copenhagen
-
-_Experienced technical leader with a demonstrated history working in the public and private industry. Strong engineering professional skilled, with hands on experience,  as both developer and architect. Visionary pragmatic problem solver preaching Public Cloud and API first._
+---
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: default
+---
