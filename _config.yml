@@ -52,7 +52,7 @@ footer_show_references: true
 darkmode: true
 
 # Build settings
-# remote_theme: sproogen/resume-theme
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
