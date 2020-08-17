@@ -3,8 +3,8 @@
   link: teliacompany.com
   job_title: Lead Architect
   dates: May 2020 - Present
-  quote: >
-   Creating guidelines and principles for integration & decoupling
+  # quote: >
+  # Creating guidelines and principles for integration & decoupling
   description: | # this will include new lines to allow paragraphs
    Leading our journey towards modernization of Telia company’s IT architecture. Responsible for the target architecture focus area called Decoupling & Integration and Application Infrastructure. 
    
@@ -31,8 +31,8 @@
   link: teliacompany.com
   job_title: Chief consultant, engineer
   dates: August 2015 - May 2017
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  #quote: >
+  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
@@ -41,8 +41,8 @@
   link: lauritz.com
   job_title: Team lead & engineer
   dates: May 2014 - August 2015
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  #quote: >
+  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
@@ -51,8 +51,8 @@
   link: yousee.dk
   job_title: Software engineer
   dates: August 2008 - May 2014
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  #quote: >
+  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
@@ -61,7 +61,7 @@
   link: cochrane.org/
   job_title: Software developer
   dates: October 2005 - August 2008
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  #quote: >
+  # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
