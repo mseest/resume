@@ -12,7 +12,7 @@
    
    Thrives with hands-on explorations and working examples as my preferred tool for guiding.
 
-- layout: right
+- layout: left
   company: Telia Company
   link: teliacompany.com
   job_title: Head of Architecture & Data Insight
@@ -38,7 +38,7 @@
    
    Using Agile methodologies and Continuous Delivery/Deployment. Doing both frontend and backend development and UI design.
 
-- layout: right
+- layout: left
   company: Lauritz.com
   link: lauritz.com
   job_title: Team lead & engineer
@@ -62,7 +62,7 @@
    
    Clojure, Clojurescript, Datomic, RESTful, API, JSON, J2EE, Tomcat, Jetty, Oracle SQL, Hibernate and Weblogic.
 
-- layout: right
+- layout: left
   company: Nordic Cochrane Centre
   link: cochrane.org/
   job_title: Software developer
